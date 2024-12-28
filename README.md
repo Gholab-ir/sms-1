@@ -23,6 +23,7 @@ List of supported gateways:
 -   [Tsms](http://www.tsms.ir)
 -   [Farazsms](https://farazsms.com)
 -   [Farazsmspattern](https://farazsms.com)
+-   [webone-sms.com](https://webone-sms.com/)
 -   [SMS Gateway Me](https://smsgateway.me)
 -   [SmsGateWay24](https://smsgateway24.com/en)
 -   [Ghasedak](https://ghasedaksms.com/)
