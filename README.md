@@ -19,6 +19,7 @@ List of supported gateways:
 -   [Kavenegar](https://kavenegar.com)
 -   [Melipayamak](https://www.melipayamak.com)
 -   [Melipayamakpattern](https://www.melipayamak.com)
+-   [webone-sms.com](https://webone-sms.com)
 -   [Smsir](https://www.sms.ir)
 -   [Tsms](http://www.tsms.ir)
 -   [Farazsms](https://farazsms.com)
